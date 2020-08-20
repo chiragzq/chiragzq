@@ -7,4 +7,4 @@
 [![Linux Build](https://img.shields.io/travis/expressjs/express/master.svg?label=linux)](https://github.com/chiragzq)
 [![Test Coverage](https://img.shields.io/coveralls/expressjs/express/master.svg)](https://github.com/chiragzq)
 
-![recursion1](https://i.imgur.com/zyRpcW2.jpg)
+![recursion1](https://i.imgur.com/msu8StU.jpg)
