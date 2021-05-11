@@ -1,4 +1,4 @@
-### Student at The Harker School, currently working on game development and competitive programming :)
+### Student at The Harker School
 
 [![Build Status](https://travis-ci.org/microsoft/TypeScript.svg?branch=master)](https://github.com/chiragzq)
 [![Devops Build Status](https://dev.azure.com/typescript/TypeScript/_apis/build/status/Typescript/node10)](https://github.com/chiragzq)
