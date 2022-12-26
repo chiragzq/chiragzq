@@ -1,4 +1,4 @@
-### Computer Science Student at Purdue University
+### CS + EE Student @ Purdue University
 
 [![GitHub Actions CI](https://github.com/microsoft/TypeScript/workflows/CI/badge.svg)](https://github.com/chiragzq)
 [![Devops Build Status](https://dev.azure.com/typescript/TypeScript/_apis/build/status/Typescript/node10)](https://github.com/chiragzq)
